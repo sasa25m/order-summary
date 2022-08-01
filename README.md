@@ -1,5 +1,6 @@
 # order-summary
     # Front-end Style Guide
+    https://sasa25m.github.io/order-summary/
 
 ## Layout
 
