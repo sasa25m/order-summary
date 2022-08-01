@@ -48,7 +48,7 @@ h5{
   text-decoration: none;
 }
 
-.plan-c{display: block;padding: 10px;}
+.plan-c{display: block;padding: 10px;text-decoration:none;}
 .plan-c h5.annual{
   color:hsl(223, 47%, 23%) ;
   font-weight: 900;
