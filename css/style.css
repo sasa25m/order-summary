@@ -53,6 +53,8 @@ h5{
   color:hsl(223, 47%, 23%) ;
   font-weight: 900;
 }
+.plan-c{
+text-decoration:none;}
 .plan-c h5{
   font-weight: 500;
   margin: 5px;
